@@ -17,7 +17,7 @@ var config = {
 // Warm warning:
 // 1. Hour, minute, and second must be two digits, such as 00:00:00
 // 2. T cannot be lost
-    date: "2022-04-01T08:00:00",
+    date: "2022-04-01T00:00:00",
     // Names of both parties
     names: ["Khushi", "Aayush"]
 }
